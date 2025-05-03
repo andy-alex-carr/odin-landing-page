@@ -5,3 +5,17 @@
     margin: 0;
     font-family: 'Roboto', sans-serif;
 }
+
+/* HEADER STYLES */
+
+.header {
+    background-color: #1f2937;
+}
+
+.header-logo {
+    color: #f9faf8;
+}
+
+.header nav a {
+    color: #e5e7eb;
+}
