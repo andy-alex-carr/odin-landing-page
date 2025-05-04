@@ -32,13 +32,16 @@
 
 .hero .content h1 {
     color: #f9faf8;
+    font-size: 48px;
 }
 
 .hero .content p {
     color: #e5e7eb;
+    font-size: 18px;
 }
 
 .hero .content button {
     background-color: #3882f6;
     color: #f9faf8;
+    font-size: 18px;
 }
