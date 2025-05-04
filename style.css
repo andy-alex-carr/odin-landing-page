@@ -23,3 +23,22 @@
     font-size: 18px;
     text-decoration: none;
 }
+
+/* HERO STYLES */
+
+.hero {
+    background-color: #1f2937;
+}
+
+.hero .content h1 {
+    color: #f9faf8;
+}
+
+.hero .content p {
+    color: #e5e7eb;
+}
+
+.hero .content button {
+    background-color: #3882f6;
+    color: #f9faf8;
+}
