@@ -33,6 +33,7 @@
 .hero .content h1 {
     color: #f9faf8;
     font-size: 48px;
+    font-weight: 900;
 }
 
 .hero .content p {
@@ -44,4 +45,5 @@
     background-color: #3882f6;
     color: #f9faf8;
     font-size: 18px;
+    font-weight: 700;
 }
