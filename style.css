@@ -53,3 +53,11 @@
 .aside {
     color: #1f2937;
 }
+
+.aside h2 {
+    font-size: 36px;
+}
+
+.aside .aside-cards {
+    font-size: 18px;
+}
