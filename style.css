@@ -61,3 +61,13 @@
 .aside .aside-cards {
     font-size: 18px;
 }
+
+/* QUOTE STYLES */
+
+.quote {
+    background-color: #e5e7eb;
+}
+
+.quote blockquote {
+    color: #1f2937;
+}
