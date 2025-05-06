@@ -74,8 +74,10 @@
 
 .quote blockquote p {
     font-size: 36px;
+    font-weight: light;
 }
 
 .quote blockquote quote {
     font-size: 18px;
+    font-weight: 700;
 }
