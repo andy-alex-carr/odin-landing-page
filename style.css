@@ -75,3 +75,7 @@
 .quote blockquote p {
     font-size: 36px;
 }
+
+.quote blockquote quote {
+    font-size: 18px;
+}
