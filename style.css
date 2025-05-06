@@ -71,3 +71,7 @@
 .quote blockquote {
     color: #1f2937;
 }
+
+.quote blockquote p {
+    font-size: 36px;
+}
