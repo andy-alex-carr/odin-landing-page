@@ -82,3 +82,9 @@
     font-size: 18px;
     font-weight: 700;
 }
+
+/* CTA STYLES */
+
+.cta .container {
+    background-color: #3882f6;
+}
