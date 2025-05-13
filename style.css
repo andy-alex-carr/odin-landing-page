@@ -97,3 +97,8 @@
     background-color: #3882f6;
     color: #f9faf8;
 }
+
+.cta h3 {
+    font-size: 22px;
+    font-weight: 700;
+}
