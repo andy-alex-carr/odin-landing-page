@@ -68,6 +68,7 @@
     width: 200px;
     height: 200px;
     border: 4px solid #3882f6;
+    border-radius: 16px;
 }
 
 /* QUOTE STYLES */
