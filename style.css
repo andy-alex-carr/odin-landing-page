@@ -47,6 +47,7 @@
     font-size: 18px;
     font-weight: 700;
     border: none;
+    border-radius: 6px;
 }
 
 /* ASIDE STYLES */
@@ -106,6 +107,7 @@
     font-size: 18px;
     font-weight: 700;
     border: 2px solid #f9faf8;
+    border-radius: 6px;
 }
 
 .cta h3 {
