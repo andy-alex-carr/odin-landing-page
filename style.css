@@ -63,6 +63,11 @@
     font-size: 18px;
 }
 
+.aside .aside-cards .card img {
+    width: 200px;
+    height: 200px;
+}
+
 /* QUOTE STYLES */
 
 .quote {
