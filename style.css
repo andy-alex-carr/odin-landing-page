@@ -92,6 +92,10 @@
     color: #1f2937;
 }
 
+.aside .container {
+    width: 1000px;
+}
+
 .aside h2 {
     font-size: 36px;
 }
