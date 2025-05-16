@@ -48,6 +48,10 @@
     background-color: #1f2937;
 }
 
+.hero .container {
+    width: 1000px;
+}
+
 .hero .content h1 {
     color: #f9faf8;
     font-size: 48px;
