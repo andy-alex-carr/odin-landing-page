@@ -82,6 +82,7 @@
     font-weight: 700;
     border: none;
     border-radius: 6px;
+    align-self: flex-start;
 }
 
 /* ASIDE STYLES */
