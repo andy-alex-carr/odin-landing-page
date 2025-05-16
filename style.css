@@ -46,6 +46,7 @@
 
 .hero {
     background-color: #1f2937;
+    padding: 90px 18px;
     display: flex;
     justify-content: center;
 }
