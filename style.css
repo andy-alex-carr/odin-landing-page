@@ -28,7 +28,7 @@
 
 .header nav ul {
     display: flex;
-    justify-content: space-between;
+    gap: 20px;
 }
 
 .header nav li {
