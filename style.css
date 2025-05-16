@@ -54,6 +54,7 @@
 .hero .container {
     width: 1000px;
     display: flex;
+    align-items: center;
     gap: 30px;
 }
 
