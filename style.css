@@ -18,6 +18,10 @@
     font-weight: 700;
 }
 
+.header nav li {
+    list-style-type: none;
+}
+
 .header nav a {
     color: #e5e7eb;
     font-size: 18px;
