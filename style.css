@@ -56,6 +56,12 @@
     gap: 30px;
 }
 
+.hero .content {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
 .hero .content h1 {
     color: #f9faf8;
     font-size: 48px;
