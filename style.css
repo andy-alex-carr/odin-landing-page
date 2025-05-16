@@ -23,6 +23,11 @@
     font-weight: 700;
 }
 
+.header nav ul {
+    display: flex;
+    justify-content: space-between;
+}
+
 .header nav li {
     list-style-type: none;
 }
