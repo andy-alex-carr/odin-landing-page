@@ -106,6 +106,10 @@
     justify-content: space-between;
 }
 
+.aside .aside-cards .card {
+    width: 200px;
+}
+
 .aside .aside-cards .card img {
     width: 200px;
     height: 200px;
