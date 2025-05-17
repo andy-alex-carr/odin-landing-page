@@ -91,6 +91,8 @@
 .aside {
     color: #1f2937;
     text-align: center;
+    display: flex;
+    justify-content: center;
 }
 
 .aside .container {
