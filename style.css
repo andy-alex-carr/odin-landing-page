@@ -93,6 +93,7 @@
     text-align: center;
     display: flex;
     justify-content: center;
+    padding: 50px 18px 120px;
 }
 
 .aside .container {
