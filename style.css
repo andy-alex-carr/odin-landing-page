@@ -97,6 +97,9 @@
 
 .aside .container {
     width: 1000px;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
 }
 
 .aside h2 {
