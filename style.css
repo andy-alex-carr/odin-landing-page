@@ -133,6 +133,7 @@
     background-color: #e5e7eb;
     display: flex;
     justify-content: center;
+    padding: 110px 18px;
 }
 
 .quote .container {
