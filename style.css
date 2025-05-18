@@ -150,6 +150,7 @@
 .quote blockquote .quote-author {
     font-size: 22px;
     font-weight: 700;
+    text-align: right;
 }
 
 /* CTA STYLES */
