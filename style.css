@@ -147,7 +147,7 @@
     font-style: italic;
 }
 
-.quote blockquote quote {
+.quote blockquote .quote-author {
     font-size: 22px;
     font-weight: 700;
 }
