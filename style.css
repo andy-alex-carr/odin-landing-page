@@ -133,6 +133,10 @@
     background-color: #e5e7eb;
 }
 
+.quote .container {
+    width: 800px;
+}
+
 .quote blockquote {
     color: #1f2937;
 }
