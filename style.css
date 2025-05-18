@@ -115,6 +115,9 @@
 
 .aside .aside-cards .card {
     width: 165px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
 }
 
 .aside .aside-cards .card img {
