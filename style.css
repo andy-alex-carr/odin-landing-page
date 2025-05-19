@@ -180,6 +180,7 @@
     border-radius: 6px;
     flex: 1;
     align-self: center;
+    padding: 7px 0;
 }
 
 .cta h3 {
