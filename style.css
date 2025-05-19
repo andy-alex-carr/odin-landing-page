@@ -204,4 +204,6 @@
     background-color: #1f2937;
     color: #e5e7eb;
     padding: 40px 18px;
+    display: flex;
+    justify-content: center;
 }
