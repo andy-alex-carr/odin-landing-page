@@ -163,10 +163,12 @@
     border-radius: 6px;
     width: 850px;
     padding: 50px 110px;
+    display: flex;
 }
 
 .cta .cta-text {
     color: #f9faf8;
+    flex: 5;
 }
 
 .cta button {
@@ -176,6 +178,8 @@
     font-weight: 700;
     border: 2px solid #f9faf8;
     border-radius: 6px;
+    flex: 1;
+    align-self: center;
 }
 
 .cta h3 {
