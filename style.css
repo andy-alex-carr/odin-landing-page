@@ -161,6 +161,7 @@
 .cta {
     display: flex;
     justify-content: center;
+    padding: 100px 18px;
 }
 
 .cta .container {
