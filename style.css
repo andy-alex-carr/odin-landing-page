@@ -161,6 +161,8 @@
 .cta .container {
     background-color: #3882f6;
     border-radius: 6px;
+    width: 850px;
+    padding: 50px 110px;
 }
 
 .cta .cta-text {
